@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="823e9ea3-c5c7-4ae7-b1c1-299d7eb47c3b" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_10_6_Final.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" afterDir="false" />
@@ -20,6 +21,11 @@
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
+=======
+    <list default="true" id="60f15654-280c-4f9b-9e5f-051ee3f364e4" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/zookeeper/target/" />
+>>>>>>> 7dc0bfe5587cdcecfb1d667ab351fe7da111cbf9
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +35,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+<<<<<<< HEAD
       <file leaf-file-name="CreateGroup.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/zookeeper/watcher/CreateGroup.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -48,11 +55,22 @@
               <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
+=======
+      <file leaf-file-name="ZookeeperClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zookeeper/src/main/java/com/learn/zookeeper/ZookeeperClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="100" column="33" selection-start-line="100" selection-start-column="24" selection-end-line="100" selection-end-column="33" />
+              <folding>
+                <element signature="e#921#1843#0" expanded="true" />
+                <element signature="e#1842#1843#0" expanded="true" />
+>>>>>>> 7dc0bfe5587cdcecfb1d667ab351fe7da111cbf9
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="DeleteGroup.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/zookeeper/watcher/DeleteGroup.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -70,6 +88,13 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
               <caret line="32" selection-start-line="32" selection-end-line="32" />
+=======
+      <file leaf-file-name="ZooKeeperWatcher.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zookeeper/src/main/java/com/learn/zookeeper/ZooKeeperWatcher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="423">
+              <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+>>>>>>> 7dc0bfe5587cdcecfb1d667ab351fe7da111cbf9
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -78,6 +103,7 @@
         </entry>
       </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
@@ -130,6 +156,12 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+=======
+        <entry file="file://$PROJECT_DIR$/zookeeper/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+>>>>>>> 7dc0bfe5587cdcecfb1d667ab351fe7da111cbf9
             </state>
           </provider>
         </entry>
@@ -143,6 +175,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -159,6 +192,14 @@
         <option value="$PROJECT_DIR$/src/main/java/com/learn/zookeeper/ServiceConf/ConfigWatcher.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/learn/zookeeper/ServiceConf/ActiveKeyValueStore.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/learn/zookeeper/ServiceConf/ConfigUpdater.java" />
+=======
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/zookeeper/pom.xml" />
+        <option value="$PROJECT_DIR$/zookeeper/src/main/java/com/learn/zookeeper/ZookeeperClient.java" />
+        <option value="$PROJECT_DIR$/zookeeper/src/main/java/com/learn/zookeeper/ZooKeeperWatcher.java" />
+>>>>>>> 7dc0bfe5587cdcecfb1d667ab351fe7da111cbf9
       </list>
     </option>
   </component>
@@ -175,6 +216,7 @@
       </MavenImportingSettings>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="MavenProjectNavigator">
     <treeState>
       <expand>
@@ -186,6 +228,8 @@
       <select />
     </treeState>
   </component>
+=======
+>>>>>>> 7dc0bfe5587cdcecfb1d667ab351fe7da111cbf9
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
@@ -195,16 +239,25 @@
     <option name="width" value="1936" />
     <option name="height" value="1096" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+=======
+>>>>>>> 7dc0bfe5587cdcecfb1d667ab351fe7da111cbf9
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
+=======
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+>>>>>>> 7dc0bfe5587cdcecfb1d667ab351fe7da111cbf9
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -257,6 +310,7 @@
               <item name="learn" type="462c0819:PsiDirectoryNode" />
               <item name="zookeeper" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
             <path>
               <item name="zookeeper" type="b2602c69:ProjectViewProjectNode" />
               <item name="zookeeper" type="462c0819:PsiDirectoryNode" />
@@ -268,10 +322,13 @@
               <item name="zookeeper" type="462c0819:PsiDirectoryNode" />
               <item name="ServiceConf" type="462c0819:PsiDirectoryNode" />
             </path>
+=======
+>>>>>>> 7dc0bfe5587cdcecfb1d667ab351fe7da111cbf9
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="Scope" />
     </panes>
   </component>
@@ -283,6 +340,21 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
+=======
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\gupao_distribute_project\zookeeper\src\main\java\com\learn\zookeeper" />
+    </key>
+  </component>
+>>>>>>> 7dc0bfe5587cdcecfb1d667ab351fe7da111cbf9
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -295,13 +367,20 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.ListGroup">
     <configuration name="CreateGroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.learn.zookeeper.watcher.CreateGroup" />
+=======
+  <component name="RunManager">
+    <configuration name="ZookeeperClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.zookeeper.ZookeeperClient" />
+>>>>>>> 7dc0bfe5587cdcecfb1d667ab351fe7da111cbf9
       <module name="zookeeper" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
+<<<<<<< HEAD
           <option name="PATTERN" value="com.learn.zookeeper.watcher.*" />
           <option name="ENABLED" value="true" />
         </pattern>
@@ -325,6 +404,9 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.learn.zookeeper.watcher.*" />
+=======
+          <option name="PATTERN" value="com.learn.zookeeper.*" />
+>>>>>>> 7dc0bfe5587cdcecfb1d667ab351fe7da111cbf9
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -370,6 +452,7 @@
       <properties />
       <listeners />
     </configuration>
+<<<<<<< HEAD
     <list>
       <item itemvalue="Application.CreateGroup" />
       <item itemvalue="Application.ListGroup" />
@@ -380,6 +463,11 @@
         <item itemvalue="Application.ListGroup" />
         <item itemvalue="Application.DeleteGroup" />
         <item itemvalue="Application.CreateGroup" />
+=======
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ZookeeperClient" />
+>>>>>>> 7dc0bfe5587cdcecfb1d667ab351fe7da111cbf9
       </list>
     </recent_temporary>
   </component>
@@ -388,6 +476,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="823e9ea3-c5c7-4ae7-b1c1-299d7eb47c3b" name="Default" comment="" />
       <created>1536831377441</created>
       <option name="number" value="Default" />
@@ -395,10 +484,19 @@
       <updated>1536831377441</updated>
       <workItem from="1536831381452" duration="382000" />
       <workItem from="1536889211236" duration="17123000" />
+=======
+      <changelist id="60f15654-280c-4f9b-9e5f-051ee3f364e4" name="Default" comment="" />
+      <created>1536568144390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536568144390</updated>
+      <workItem from="1536568147375" duration="5568000" />
+>>>>>>> 7dc0bfe5587cdcecfb1d667ab351fe7da111cbf9
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="17505000" />
   </component>
   <component name="ToolWindowManager">
@@ -471,6 +569,43 @@
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="right" id="Bean Validation" order="8" />
     </layout-to-restore>
+=======
+    <option name="totallyTimeSpent" value="5568000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1358" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" weight="0.32941177" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info id="Image Layers" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49920255" visible="true" weight="0.25" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Structure" order="9" sideWeight="0.50079745" side_tool="true" visible="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+>>>>>>> 7dc0bfe5587cdcecfb1d667ab351fe7da111cbf9
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -479,6 +614,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/zookeeper/Configuration/ConnectionInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -571,10 +707,27 @@
           <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="21" selection-end-column="67" />
           <folding>
             <element signature="imports" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/zookeeper/src/main/java/com/learn/zookeeper/NodeFunc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeper/src/main/java/com/learn/zookeeper/ZookeeperClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="100" column="33" selection-start-line="100" selection-start-column="24" selection-end-line="100" selection-end-column="33" />
+          <folding>
+            <element signature="e#921#1843#0" expanded="true" />
+            <element signature="e#1842#1843#0" expanded="true" />
+>>>>>>> 7dc0bfe5587cdcecfb1d667ab351fe7da111cbf9
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/zookeeper/watcher/JoinGroup.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -589,12 +742,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+=======
+    <entry file="file://$PROJECT_DIR$/zookeeper/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zookeeper/src/main/java/com/learn/zookeeper/ZooKeeperWatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+>>>>>>> 7dc0bfe5587cdcecfb1d667ab351fe7da111cbf9
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/zookeeper/watcher/ListGroup.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -668,5 +835,7 @@
         </settings>
       </state>
     </states>
+=======
+>>>>>>> 7dc0bfe5587cdcecfb1d667ab351fe7da111cbf9
   </component>
 </project>

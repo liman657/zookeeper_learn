@@ -7,7 +7,7 @@
 
     <groupId>com.learn</groupId>
     <artifactId>zookeeper</artifactId>
-
+    <version>1.0-SNAPSHOT</version>
     <dependencies>
         <!--<dependency>-->
             <!--<groupId>junit</groupId>-->
@@ -30,7 +30,15 @@
                 </exclusion>
             </exclusions>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/log4j/log4j -->
+        <dependency>
+            <groupId>log4j</groupId>
+            <artifactId>log4j</artifactId>
+            <version>1.2.12</version>
+        </dependency>
+
         <!--<dependency>-->
+<<<<<<< HEAD:pom.xml
             <!--<groupId>org.apache.curator</groupId>-->
             <!--<artifactId>curator-framework</artifactId>-->
             <!--<version>4.0.0</version>-->
@@ -39,6 +47,11 @@
             <!--<groupId>org.apache.curator</groupId>-->
             <!--<artifactId>curator-recipes</artifactId>-->
             <!--<version>4.0.0</version>-->
+=======
+        <!--<groupId>org.apache.curator</groupId>-->
+        <!--<artifactId>curator-recipes</artifactId>-->
+        <!--<version>4.0.0</version>-->
+>>>>>>> 7dc0bfe5587cdcecfb1d667ab351fe7da111cbf9:zookeeper/pom.xml
         <!--</dependency>-->
     </dependencies>
     <properties>
